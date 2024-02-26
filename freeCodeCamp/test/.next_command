@@ -197,3 +197,18 @@ rm background.jpg
 cd ..
 rmdir images
 ls --color=auto
+cd client/assets
+mkdir icons
+ls --color=auto
+rmdir icons
+ls --color=auto
+cd ..
+cd ..
+mkdir icons client/assets
+mkdir icons
+ls --color=auto
+cd icons
+ls --color=auto
+cd ..
+rmdir icons
+mkdir client/assets/icons
