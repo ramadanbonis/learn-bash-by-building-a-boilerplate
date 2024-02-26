@@ -94,3 +94,4 @@ ls --color=auto
 touch styles.css
 clear
 ls --color=auto
+touch index.js
