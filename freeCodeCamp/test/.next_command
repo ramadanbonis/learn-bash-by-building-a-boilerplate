@@ -248,3 +248,4 @@ echo from the command line >> REAME.md
 ls --color=auto
 rm REAME.md
 echo from the command line >> README.md
+more README.md
