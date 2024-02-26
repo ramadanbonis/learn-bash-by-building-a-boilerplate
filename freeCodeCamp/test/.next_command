@@ -133,3 +133,4 @@ ls --color=auto
 rm heafer.png
 rm header.png
 rm footer.jpeg
+ls --color=auto
