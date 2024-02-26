@@ -180,3 +180,5 @@ ls --color=auto
 mv header.png ..
 ks
 ls --color=auto
+clear
+cd ..
