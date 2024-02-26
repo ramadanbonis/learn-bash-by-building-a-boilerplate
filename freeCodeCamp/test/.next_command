@@ -92,3 +92,5 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 ls --color=auto
 touch styles.css
+clear
+ls --color=auto
