@@ -95,3 +95,4 @@ touch styles.css
 clear
 ls --color=auto
 touch index.js
+touch .gitignore
