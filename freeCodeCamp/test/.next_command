@@ -130,3 +130,5 @@ ckear
 clear
 cd ..
 ls --color=auto
+rm heafer.png
+rm header.png
