@@ -148,3 +148,4 @@ __vsc_prompt_cmd_original
 clear
 ls --color=auto
 mv lato.ttf fonts
+mv menlo.otf fonts
