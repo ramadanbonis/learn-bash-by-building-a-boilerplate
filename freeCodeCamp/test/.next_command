@@ -168,3 +168,4 @@ find -name src
 pwd
 ls --color=auto
 find
+cd client
