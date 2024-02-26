@@ -275,3 +275,4 @@ find website-boilerplate
 clear
 echo goodbye teminal
 echo goodbye terminal
+exit
