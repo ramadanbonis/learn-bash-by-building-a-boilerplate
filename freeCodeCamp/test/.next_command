@@ -126,3 +126,6 @@ cp footer.jpeg images
 cd images
 ks
 ls --color=auto
+ckear
+clear
+cd ..
