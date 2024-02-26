@@ -88,3 +88,7 @@ touch index.html]
 ls --color=auto
 rm index.html]
 touch index.html
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+ls --color=auto
+touch styles.css
