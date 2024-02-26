@@ -232,3 +232,5 @@ find
 rm --help
 find
 rm -r fonts
+ks
+ls --color=auto
