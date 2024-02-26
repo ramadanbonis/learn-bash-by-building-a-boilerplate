@@ -129,3 +129,4 @@ ls --color=auto
 ckear
 clear
 cd ..
+ls --color=auto
